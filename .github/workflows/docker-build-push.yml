@@ -7,7 +7,7 @@ on:
 
 env:
     REGISTRY: ghcr.io
-  # Evaluates to 'asign796/axion-ui'
+  # Evaluates to 'contactanamika55/axion-ui'
     IMAGE_NAME: contactanamika55/axion-ui
 
 jobs:
