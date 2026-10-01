@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: axion-ui
-          image: ghcr.io/asign796/axion-ui:ef31b9b
+          image: ghcr.io/contactanamika55/axion-ui:82df5f2
           ports:
             - containerPort: 80
